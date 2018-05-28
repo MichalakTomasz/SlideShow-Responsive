@@ -4,10 +4,10 @@
 
 INSTALATION
 
-Lite and easy to use responsive SlideShow
+Light and easy to use responsive SlideShow
 
 - add image files to Img folder
-- add link to SlideShow.js script to Head element:
+- add link to SlideShow.js script in <head> element:
 
   <script type="text/javascript" src="SlideShow.js"></script>
   
@@ -34,7 +34,7 @@ slideObjects = [
   
     <div id="slideShowElement"></div>
     
-EXAMPLE
+EXAMPLE:
     
 <!DOCTYPE html>
 <html lang="pl" xmlns="http://www.w3.org/1999/xhtml">
