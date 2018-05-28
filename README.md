@@ -34,7 +34,7 @@ slideObjects = [
   
     <div id="slideShowElement"></div>
     
--------------------------------EXAMPLE:----------------------------------
+EXAMPLE
     
 <!DOCTYPE html>
 <html lang="pl" xmlns="http://www.w3.org/1999/xhtml">
