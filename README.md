@@ -1,4 +1,4 @@
-# SlideShow-Responsve
+# JavaScript SlideShow-Responsve
 
 
 
